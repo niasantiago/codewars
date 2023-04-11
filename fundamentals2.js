@@ -6,4 +6,6 @@ function openOrSenior(data){
         return "Open";
       }
     });
-  } 
+  }  
+
+  
